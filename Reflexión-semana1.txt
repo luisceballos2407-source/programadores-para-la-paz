@@ -1,1 +1,9 @@
-Desde mi punto de vista considero que  el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git están estrechamente relacionados, ya que todos requieren compromiso, responsabilidad y colaboración. Cuando utilizamos información en línea debemos verificar las fuentes y respetar los derechos de autor, así como en la participación ciudadana es importante actuar de manera ética y aportar opiniones fundamentadas. De igual forma, Git permite que varias personas trabajen en un mismo proyecto de manera organizada, registrando cambios y facilitando el trabajo en equipo. Estas prácticas promueven la transparencia, el respeto y la construcción colectiva de conocimientos y soluciones, contribuyendo al desarrollo de una sociedad más participativa y al uso adecuado de la tecnología.
+Desde mi punto de vista considero que  el uso responsable de la información en internet,
+la participación ciudadana y la organización del trabajo técnico con herramientas como Git
+están estrechamente relacionados, ya que todos requieren compromiso, responsabilidad y colaboración.
+Cuando utilizamos información en línea debemos verificar las fuentes y respetar los derechos de autor,
+así como en la participación ciudadana es importante actuar de manera ética y aportar opiniones fundamentadas.
+De igual forma, Git permite que varias personas trabajen en un mismo proyecto de manera organizada, 
+registrando cambios y facilitando el trabajo en equipo. 
+Estas prácticas promueven la transparencia, el respeto y la construcción colectiva de conocimientos y soluciones, 
+contribuyendo al desarrollo de una sociedad más participativa y al uso adecuado de la tecnología.
